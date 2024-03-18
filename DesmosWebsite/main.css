@@ -7,5 +7,15 @@
     --purple-light: rgb(255, 167, 248);
     --purple-dark: rgb(88, 0, 81);
     --purple-dark-background: rgb(38, 0, 35);
+}
+html {
     background-color: --green-background;
+}
+#button {
+    width: 100px;
+    height: 62px;
+    position: absolute;
+    border: 3px solid --green-dark;
+    border-radius: 6px;
+    background-color: --green-light
 }
