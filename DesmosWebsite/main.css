@@ -1,0 +1,11 @@
+:root {
+    --green-background: rgb(235, 255, 236);
+    --green-light: rgb(167, 255, 174);
+    --green-dark: rgb(0, 88, 7);
+    --green-dark-background: rgb(0, 64, 5);
+    --purple-background: rgb(255, 235, 253);
+    --purple-light: rgb(255, 167, 248);
+    --purple-dark: rgb(88, 0, 81);
+    --purple-dark-background: rgb(38, 0, 35);
+    background-color: --green-background;
+}
